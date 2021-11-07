@@ -530,18 +530,21 @@ img {
   .page__captions {
     width: 450px;
     text-align: center;
+    font-size: 28px;
   }
 }
 
 @media screen and (min-width: 480px) {
   .page__captions {
     margin-bottom: 30px;
+    font-size: 28px;
   }
 }
 
 @media screen and (min-width: 678px) {
   .page__captions {
     margin-bottom: 30px;
+    font-size: 28px;
   }
 }
 
@@ -872,7 +875,7 @@ img {
 @media screen and (min-width: 768px) {
   .cursset__menu {
     justify-content: center;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
   }
 }
 
